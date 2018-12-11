@@ -1,0 +1,89 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lampa.ru" resolutions="1x" timestamp="1544571804372">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4007823146" ref="index"/>
+    <file name="iefonts_index.css" crc="237997687" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="327a4152.jpg" crc="3921980990" seo="true" mt="1544013689000"/>
+    <file name="327a4154.jpg" crc="324971714" seo="true" mt="1544013593000"/>
+    <file name="327a4157.jpg" crc="3964008868" seo="true" mt="1544013694000"/>
+    <file name="327a4155.jpg" crc="3905338549" seo="true" mt="1544013692000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1858.php" crc="4210113509" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="327a4158-u726-fr.png" crc="247618524" ref="index"/>
+    <file name="pasted image 36x36.png" crc="167986542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4127.jpg" crc="4286209481" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="331515843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-1.jpg" crc="322721301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3972906623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4152.jpg" crc="4048875990" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4154.jpg" crc="4022649074" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4155-u1557-fr.jpg" crc="3841327748" ref="index"/>
+    <file name="327a4156.jpg" crc="322790782" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4157.jpg" crc="121901719" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4158-u1566-fr.jpg" crc="534238448" ref="index"/>
+    <file name="вставленное изображение 187x161.jpg" crc="201616998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32.jpg" crc="187511651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="327a4155.jpg" crc="397805082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 170x182.jpg" crc="4240852272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3869452709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0103ca4f92dc1c0583eecc25f7bac082d130ed73.jpg" crc="184738625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 201x159.jpg" crc="3828491158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="186463-13.jpg" crc="204908083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="й.jpg" crc="472543970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="172623547" seo="true" mt="1544570162454" redirect="true"/>
+</manifest>
